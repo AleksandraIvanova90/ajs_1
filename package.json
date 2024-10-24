@@ -1,0 +1,11 @@
+{
+  "name": "@aleksandraivanova90/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "https://github.com/AleksandraIvanova90/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
